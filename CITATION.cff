@@ -1,0 +1,50 @@
+# ============================================================
+# CITATION.cff (How to cite this project)
+# ============================================================
+
+# REQ.UNIVERSAL: Professional open projects SHOULD include this file.
+# WHY: Support correct citation and attribution.
+# ALT: Internal or private repositories may omit citation metadata.
+# CUSTOM: Update author, repository, license, and keyword fields as needed.
+# USAGE: See https://citation-file-format.github.io/ for details.
+
+cff-version: "1.2.0"
+message: "If using this work, please cite it as described in this file."
+type: software
+
+title: "datafun-06-ml"
+version: "0.1.0"
+date-released: "2026-10-05"
+
+authors:
+  - family-names: Davis
+    given-names: Josiah
+    affiliation: "Northwest Missouri State University, Maryville, MO, USA"
+
+repository-code: "https://github.com/jgdavis24/datafun-06-ml"
+url: "https://github.com/jgdavis24/datafun-06-ml"
+license: MIT
+
+abstract: >
+  Data analytics project introducing linear regression
+  and predictive modeling with Python.
+  The project emphasizes preparing data, splitting data
+  into training and test sets, establishing a baseline,
+  training and evaluating a regression model,
+  interpreting predictions and model metrics,
+  and communicating findings within a professional,
+  reproducible project workflow.
+
+keywords:
+  - data-analytics
+  - machine-learning
+  - predictive-analytics
+  - linear-regression
+  - regression
+  - supervised-learning
+  - model-evaluation
+  - scikit-learn
+  - pandas
+  - python
+  - reproducible-workflows
+  - data-analytics-education
